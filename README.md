@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022.<br>📚 I'm currently learning Microsoft .NET and backend development.<br>🎯 Goals: To become a skilled backend developer and contribute to solving real-world problems.<br>🎲 Fun fact: I love working with Delphi 10.3 and have experience with relational databases like PostgreSQL, MySQL, SQL Server, and Oracle PL/SQL.</p>
+<p align="left">✨ Creating bugs since 2022.<br>📚 I'm currently learning Microsoft .NET and backend development.<br>🎯 Goals: To become a skilled backend developer and contribute to solving real-world problems.<br>🎲 Fun fact: I love working with Delphi and have experience with relational databases like PostgreSQL, MySQL, SQL Server, and Oracle PL/SQL.</p>
 
 ###
 
