@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Diogo Henrique, a self-taught Systems Analyst and Developer. I possess skills in Oracle PL/SQL and Delphi development, focusing on solving backend challenges in SCM (Supply Chain Management) and transportation sectors. Currently, I'm exploring the Java ecosystem and learning the Spring framework.</p>
+<p align="left">I'm Diogo Henrique, a self-taught Systems Analyst and Developer. I possess skills in Oracle PL/SQL and Delphi development, focusing on solving backend challenges in SCM (Supply Chain Management) and transportation sectors. Currently, I'm exploring the Java ecosystem and learning the Spring framework. Additionally, I'm pursuing a bachelor's degree in Computer Science at IFSULDEMINAS.</p>
 
 ###
 
